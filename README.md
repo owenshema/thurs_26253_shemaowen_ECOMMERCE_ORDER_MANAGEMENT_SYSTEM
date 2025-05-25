@@ -15,9 +15,7 @@
 - [Objectives](#objectives)  
 - [Technologies Used](#technologies-used)  
 - [Project Phases](#project-phases)  
-- [Major SQL Files](#major-sql-files)  
-- [Usage Instructions](#usage-instructions)  
-- [Results Summary](#results-summary)  
+- [Major SQL Files](#major-sql-files)    
 - [Conclusion](#conclusion)  
 
 ---
@@ -104,23 +102,12 @@ Many e-commerce platforms face challenges with manual order processing, lack of 
 
 ---
 
-## Major SQL Files
+## conclusion
+The E-Commerce Order Management System successfully automates the order processing workflow and secures data integrity using robust PL/SQL features. Triggers and packages effectively enforce complex business logic, while the comprehensive auditing mechanism provides valuable insights for Management Information System (MIS) functions.
 
-| File Name          | Description                          |
-|--------------------|--------------------------------------|
-| `create_tables.sql` | DDL scripts to create core tables    |
-| `insert_data.sql`   | DML scripts to populate sample data  |
-| `order_pkg.sql`     | Package for order processing         |
-| `triggers.sql`      | Restriction and auditing triggers    |
-| `functions.sql`     | Utility functions                    |
-| `audit_log.sql`     | Audit table creation and logic       |
+
 
 ---
 
-## Usage Instructions
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/owenshema/thur_26253_shemaowen_ECOMMERCE_ORDER_MANAGEMENT.git
-   cd thur_26253_shemaowen_ECOMMERCE_ORDER_MANAGEMENT
+   
