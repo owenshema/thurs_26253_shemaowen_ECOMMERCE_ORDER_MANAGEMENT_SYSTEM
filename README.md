@@ -100,7 +100,7 @@ Many e-commerce platforms face challenges with manual order processing, lack of 
 - ![Restriction](./Phase_7_Security_Auditing_And_Advanced/phase7_restriction.png)  
 - ![phase7_table_audit](https://github.com/user-attachments/assets/940535a3-441f-4936-b037-d868dcba2c65)
  
-- 📊 [Presentation](./Phase_7_Security_Auditing_And_Advanced/Phase_VII_Advanced_DB_Programming_Auditing.pptx)  
+-  
 
 ---
 
