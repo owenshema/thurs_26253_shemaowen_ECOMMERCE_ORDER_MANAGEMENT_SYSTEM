@@ -14,8 +14,7 @@
 - [Problem Statement](#problem-statement)  
 - [Objectives](#objectives)  
 - [Technologies Used](#technologies-used)  
-- [Project Phases](#project-phases)  
-- [Major SQL Files](#major-sql-files)    
+- [Project Phases](#project-phases)    
 - [Conclusion](#conclusion)  
 
 ---
@@ -52,6 +51,7 @@ Many e-commerce platforms face challenges with manual order processing, lack of 
 ### Phase II: Business Process Modeling  
 - Documented order management business processes  
 - 📄 [Business Process Modeling Document](./Phase_2_Business_Process_Modeling/Phase_II_Business_Process_Modeling_Shema_Owen.docx)  
+-![bpmn picture phaase 2Picture1](https://github.com/user-attachments/assets/cd754f61-f8ce-426b-9ec1-c8924d8f8c7b)
 
 ### Phase III: Logical Model Design  
 - Developed ER diagram and related documentation  
