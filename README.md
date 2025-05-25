@@ -58,13 +58,16 @@ Many e-commerce platforms face challenges with manual order processing, lack of 
 ### Phase III: Logical Model Design  
 - Developed ER diagram and related documentation  
 - ![ER Diagram](./Phase_3_Logical_Modeling/ER_diagram.png)  
-- 📄 [ER Model Document](./Phase_3_Logical_Modeling/PhaseIII_Ecommerce_ER_Model_ShemaOwen.docx)  
+
+
 
 ### Phase IV: Database Management  
 - Configured tablespaces and pluggable database environment  
-- ![Tablespaces](./Phase_4_Physical_DB_Implementation/Phase_4_OEM_TABLESPACES.png)  
+- ![Phase_4 OEM_TABLESPACES](https://github.com/user-attachments/assets/8e355300-4bcf-417f-b391-1798d575ba1c)
+  
 - ![OEM Container](./Phase_4_Physical_DB_Implementation/phase_4_OEM_CONTAINER.png)  
-- ![Pluggable DB](./Phase_4_Physical_DB_Implementation/phase_4_pluggable_database.png)  
+![phase 4 pluggable database](https://github.com/user-attachments/assets/70926825-3daa-40c1-9473-7cb932873ad4)
+  
 
 ### Phase V: DML and Business Logic  
 - Developed tables and inserted data for orders, products, customers, shipments, payments, and approvals  
@@ -72,10 +75,14 @@ Many e-commerce platforms face challenges with manual order processing, lack of 
 - ![DML](./Phase_5_DML_and_Queries/phase_5_dml.png)  
 - ![Table Manager](./Phase_5_DML_and_Queries/phase_5_table_manager.png)  
 - ![Table Order](./Phase_5_DML_and_Queries/phase_5_table_order.png)  
-- ![Table Order Approval](./Phase_5_DML_and_Queries/phase_5_table_order_approval.png)  
-- ![Table Payment](./Phase_5_DML_and_Queries/phase_5_table_payment.png)  
-- ![Table Product](./Phase_5_DML_and_Queries/phase_5_table_product.png)  
-- ![Table Shipment](./Phase_5_DML_and_Queries/phase_5_table_shipment.png)  
+- ![phase_5 table_order_approval](https://github.com/user-attachments/assets/634d27a1-3f84-47cb-8170-ae7b2cad32c3)
+
+- ![phase_5_table_payement](https://github.com/user-attachments/assets/6bf6347c-a176-4e3e-a6ca-5c7d3a38a0e0)
+ 
+- ![phase _5_table_product](https://github.com/user-attachments/assets/76e13887-0b5c-4ef2-96de-c5822dc8f646)
+ 
+- ![phase_5_table_shipment](https://github.com/user-attachments/assets/276a950c-759b-4f9a-9e32-f1285e91dab7)
+  
 
 ### Phase VI: PL/SQL Programming  
 - Built procedures, functions, and triggers for business automation  
@@ -85,11 +92,14 @@ Many e-commerce platforms face challenges with manual order processing, lack of 
 
 ### Phase VII: Advanced Programming & Auditing  
 - Implemented audit mechanisms and security restrictions  
-- ![Audit](./Phase_7_Security_Auditing_And_Advanced/phase7_audit.png)  
-- ![Holidays](./Phase_7_Security_Auditing_And_Advanced/phase7_holidays.png)  
+- ![phase_7_audit](https://github.com/user-attachments/assets/2d597fc6-c136-407a-a33f-dfefb07ce907)
+ 
+- ![phase_7_holidays](https://github.com/user-attachments/assets/f3fd226c-c5a9-4646-8eed-f9863f07a8f4)
+ 
 - ![Package Audit](./Phase_7_Security_Auditing_And_Advanced/phase7_package_audit.png)  
 - ![Restriction](./Phase_7_Security_Auditing_And_Advanced/phase7_restriction.png)  
-- ![Table Audit](./Phase_7_Security_Auditing_And_Advanced/table_audit.png)  
+- ![phase7_table_audit](https://github.com/user-attachments/assets/940535a3-441f-4936-b037-d868dcba2c65)
+ 
 - 📊 [Presentation](./Phase_7_Security_Auditing_And_Advanced/Phase_VII_Advanced_DB_Programming_Auditing.pptx)  
 
 ---
